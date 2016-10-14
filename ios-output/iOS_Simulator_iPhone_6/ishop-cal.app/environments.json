@@ -1,0 +1,18 @@
+{
+    "Staging": {
+        "crittercism_app_id": "54ed054b3cf56b9e0457e4fd",
+        "parse_app_id": "S9nw52f93wGwIi32Wh1ayf0z3Fdg5haqwKETUhZH",
+        "parse_client_key": "wjeSHrLfwIUw7neNCuysMdObgo87Rc0VQraT62He",
+        "google_analytics_app_id": "UA-60147974-1",
+        "base_api_url": "http://private-10996-concreteecommerce.apiary-mock.com/",
+        "base_ssl_api_url": "https://private-10996-concreteecommerce.apiary-mock.com/"
+    },
+    "Production": {
+        "crittercism_app_id": "54ee6f6051de5e9f042ede4b",
+        "parse_app_id": "",
+        "parse_client_key": "",
+        "google_analytics_app_id": "UA-60147974-2",
+        "base_api_url": "",
+        "base_ssl_api_url": ""
+    }
+}

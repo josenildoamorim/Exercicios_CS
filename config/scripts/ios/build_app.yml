@@ -1,0 +1,13 @@
+dev:
+  xcworkspace: "/Users/josenildosantos/Desktop/Workspaces/cr-ishop/ishop/ishop.xcworkspace"
+  scheme: ishop-cal
+  configuration: Debug
+  destination: "platform=iOS Simulator,name=iPhone 6"
+  export_path: "/Users/josenildosantos/Desktop/Workspaces/QA-cr-droidshop/ios-output"
+
+jenkins:
+  xcworkspace: <%= ENV['WORKSPACE']%>/Project.xcworkspace
+  scheme: TargetName
+  configuration: Debug
+  destination: "Any_platform_or_device_that_you_want"
+  export_path: <%= ENV['WORKSPACE']%>/releases/normal
